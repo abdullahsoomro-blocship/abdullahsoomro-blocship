@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abdullah-ahmed-soomro/">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
   </a>
-  <a href="mailto:abdullahsoomro245@gmail.com">
+  <a href="mailto:abdullah.soomro@blocship.io">
     <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
   </a>
   <a href="https://medium.com/@AbdullahAhmedSoomro">
